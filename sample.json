@@ -1,0 +1,152 @@
+[
+    {
+        "path": "./audiocaps_16k/YxQDq3A4Zfbo.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Can you hear the sound of man speaking in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y3RultJjvTWI.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Have you noticed the sound of siren in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YFKaJsvcyHTk.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Can you hear the sound of accordion in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YoN0IcZaHD_8.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of pump (liquid)?"
+      },
+      {
+        "path": "./audiocaps_16k/Y_duNX6Vyd6g.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Can you hear the sound of boat in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YiOCpICiu4LA.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Can you hear the sound of fly in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y5rh5-MCjqq8.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Can you hear the sound of ocean in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YS_3aeOvniZc.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Is there a sound of pawl in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y6NBPiArs2-w.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Is there a sound of gunshot in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YPTyFYxXdut4.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of dribble?"
+      },
+      {
+        "path": "./audiocaps_16k/YglAeihz0NAM.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Is there a sound of speech in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YajheseWZmmU.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of cat?"
+      },
+      {
+        "path": "./audiocaps_16k/YXi6V0LGvqoo.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of canidae?"
+      },
+      {
+        "path": "./audiocaps_16k/YEBCH7TPgiPc.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Is there a sound of car in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Yj1AiqT5oHZc.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Can you hear the sound of speech in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YGIOApFAWDOc.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of bird?"
+      },
+      {
+        "path": "./audiocaps_16k/YKVbmN9ZRg5Q.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Can you detect the sound of a train horn in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/YKOBkbROPv4c.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of trance music?"
+      },
+      {
+        "path": "./audiocaps_16k/YXQxIXaX_7M0.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Is there a sound of rustling leaves in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Yp9qRTh4BmSE.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Is there a sound of train wagon in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y6ZFU4PqXmoI.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Does the audio contain the sound of wind chime?"
+      },
+      {
+        "path": "./audiocaps_16k/YkEP-BwMarf8.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Have you noticed the sound of crinkling in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y4YMXgLFcR94.wav",
+        "text": "Yes",
+        "task": "QA",
+        "Q": "Can you detect the sound of a speech in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Yh0M4RS8p_mo.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Is there a sound of dribble in the audio?"
+      },
+      {
+        "path": "./audiocaps_16k/Y0yxEvdnimGg.wav",
+        "text": "No",
+        "task": "QA",
+        "Q": "Have you noticed the sound of bird flight in the audio?"
+      }
+]
