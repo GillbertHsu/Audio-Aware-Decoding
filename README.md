@@ -1,1 +1,1 @@
-# -Audio-Aware-Decoding
+# Audio-Aware-Decoding
