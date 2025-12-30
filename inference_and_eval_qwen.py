@@ -90,7 +90,7 @@ def extract_yes_no(text):
     if match:
         return match.group(0).lower()
     
-    elif "there is no sound" in text or "there is no sound of" in text or "there is no" or "is not" in text:
+    elif "there is no sound" in text or "there is no sound of" in text or "there is no" in text or "is not" in text:
         return "no"
 
     elif "does not contain" in text or "doesn't contain" in text:
