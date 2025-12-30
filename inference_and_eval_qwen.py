@@ -172,9 +172,9 @@ def discriminative_metric(result):
     # not_answer_rate is the ratio of empty responses
     not_answer_rate = not_answer_count / total if total > 0 else 0
 
-    print(f"Accuracy: {round(acc, 3)}, Precision: {round(precision, 3)}, Recall: {round(recall, 3)}, F1: {round(f1, 3)}, Yes_ratio: {round(yes_ratio, 3)}, Not answered ratio: {round(not_answer_rate, 3)}")
+    print(f"Accuracy: {round(acc, 3)}, Precision: {round(precision, 3)}, Recall: {round(recall, 3)}, F1: {round(f1, 3)}, Yes_ratio: {round(yes_ratio, 3)}
     
-    return round(acc, 3), round(precision, 3), round(recall, 3), round(f1, 3), round(yes_ratio, 3), round(not_answer_rate, 3)
+    return round(acc, 3), round(precision, 3), round(recall, 3), round(f1, 3), round(yes_ratio, 3)
 
 def load_audio(qa_item, sampling_rate):
     """Load and process a single audio file"""
